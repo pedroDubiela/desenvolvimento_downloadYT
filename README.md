@@ -4,6 +4,10 @@ Criar um aplicativo com interface gráfica para download de vídeos (mp4) e mús
 # Como foi feito:
 1)	Função para Download: Foi utilizado a função yt_download do módulo mhyt, disponível em https://pypi.org/project/mhyt/. Foram necessários alguns ajustes na função para correção de erros.
 2)	A interface gráfica foi criada com o uso da ferramenta QTDesing da plataforma QTCreator.
+
+# Observações:
+O arquivo baixado vai estar na mesma pasta onde está o arquivo executável.
+
 # Images do app:
 
 ![1](https://user-images.githubusercontent.com/79408563/127662919-50cd11e0-d41c-4eb6-9337-490e6911b64f.PNG)
